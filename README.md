@@ -11,7 +11,7 @@ Contract Address : -  ( change according to your needs )
 * Rinkeby   : 0xDfA1f2EfcDef7B61c53481e6f9e7b119fF77Eab9 
 * Mumbai    : 0x56D9d1bf988254feFdE9111514d4ce2078737444
 
-Run the following commands to test and deploy
+Run the following commands to test and deploy.
 
 ```shell
 npx hardhat compile
